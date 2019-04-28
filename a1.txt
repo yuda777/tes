@@ -4,5 +4,9 @@ list Tes:
  - done
  - tes 4
  - tes 5
- - tes 6
-   * jono 1
+
+ - tes 6:
+   * add 1
+   * add 2
+   * add 3
+
